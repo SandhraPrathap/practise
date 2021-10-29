@@ -27,5 +27,5 @@ void main()
     
     
     printf("\n");
-    printf("sum:%d",sum);
+    printf("sum of series:%d",sum);
 }
